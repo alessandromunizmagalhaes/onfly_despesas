@@ -1,2 +1,2 @@
 # onfly_despesas
-Projeto desenvolvido em para a empresa OnFly
+Projeto desenvolvido para a empresa OnFly
